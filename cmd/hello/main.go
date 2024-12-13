@@ -15,8 +15,8 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "postgres"
-	dbname   = "sandbox"
+	password = "Amirka58906510"
+	dbname   = "testik1"
 )
 
 type Handlers struct {
